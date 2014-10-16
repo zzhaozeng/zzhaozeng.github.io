@@ -1,13 +1,13 @@
 markdown: kramdown
 highlighter: pygments
-permalink: blog/:year/:month/:day/:title.html
+permalink: blog/:year/:month/:day/:title
 paginate: 5
 paginate_path: page/:num
 
 blog:
     name:                                                # 博客名称
     description: 杂谈, Algorithm, ML， NLP， PGM                                         # 博客描述
-    title:                                               # 网页标题
+    title: zzhaozeng's blog                                               # 网页标题
     url:                                                 # 博客地址
     duoshuo: zazazeng                                             # 多说ID
     tongji: zazazeng                                              # 百度统计ID
